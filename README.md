@@ -1,58 +1,84 @@
-# 👋 Hi, I'm Palak Ray ([@PalakRay07](https://github.com/PalakRay07))
+<!-- Hero Banner -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=wave&color=gradient&height=140&section=header&text=Hey%20there!%20I'm%20Palak%20Ray 👋" width="100%" />
+</p>
 
-Passionate about Python-based data analytics, automation, and turning raw data into **actionable insights**. Currently exploring **ML**, **cloud**, **CI/CD**, and **visualization pipelines** to level up every project.
+<!-- Social & Badges -->
+<p align="center">
+  <a href="https://github.com/PalakRay07"><img src="https://img.shields.io/badge/GitHub-100000?logo=github&style=for-the-badge" /></a>
+  <a href="https://linkedin.com/in/palak-ray"><img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&style=for-the-badge" /></a>
+  <a href="https://twitter.com/PalakRay07"><img src="https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&style=for-the-badge" /></a>
+  <img src="https://visitor-badge.glitch.me/badge?page_id=PalakRay07.PalakRay07" alt="profile views"/>
+</p>
 
----
-
-## 📊 Featured Project
-
-### 🚖 Uber Trips Analysis using Python
-Analyze New York City Uber ride data to uncover patterns—peak hours, high/low-traffic days, and insightful visualizations using:
-- **Python**: `pandas`, `numpy`
-- **Visualization**: `matplotlib`, `seaborn`
-- **Jupyter Notebook** for interactive storytelling
-- Cleaned and preprocessed large CSVs, delivered clear visual reports.  
-➡️ [View the repo →](https://github.com/PalakRay07/Uber-Trips-Analysis-using-Python) :contentReference[oaicite:1]{index=1}
-
----
-
-## 🔭 What I’m Working On
-- 🧠 Expanding the Uber project into a full **ML pipeline**
-- Deploying dashboards with **Plotly Dash** or **Streamlit**
-- Integrating with **AWS S3 + Lambda** for automation
+## 👨‍💻 About Me
+- Data analytics enthusiast specializing in **ML pipelines**, **interactive dashboards**, and **cloud automation**
+- Converting my **Uber Trips Analysis** into a fully-automated system with:
+  - 🚀 **Streamlit/Dash dashboard**
+  - 🧩 AWS Lambda, S3, GitHub Actions & Docker
+- I’m all about **clean code**, **open-source contributions**, and **technical storytelling**
 
 ---
 
-## 🛠️ Tech Stack
-- **Languages**: Python, SQL, Bash
-- **Data Tools**: pandas, NumPy, scikit-learn, seaborn, matplotlib
-- **Visualization**: Plotly, Dash, Streamlit
-- **Cloud & CI/CD**: GitHub Actions, AWS (S3, Lambda), Docker
-- **Orchestration**: Apache Airflow basics
-- **Version Control**: Git & GitHub fluency
+## ⚙️ Tech Stack
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/aws/aws-original.svg" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/streamlit/streamlit-original.svg" width="40" />
+</p>
 
 ---
 
-## 🌱 Currently Learning
-- ML modeling & evaluation workflows
-- Docker + GitHub Actions deployment
-- Interactive dashboards & real-time ETL pipelines
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=PalakRay07&show_icons=true&theme=dark" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PalakRay07&layout=compact&theme=dark" width="48%" />
+</p>
 
 ---
 
-## 📫 Connect With Me
-- 🔗 [GitHub Profile](https://github.com/PalakRay07)  
-- 💼 LinkedIn — *(add if available)*  
-- 🌐 Portfolio — *(if exists)*  
+## 🔭 Current Projects
+
+- **Uber Trips Dashboard** – Real-time ETL + Streamlit dashboard in AWS  
+- **ML Monitoring Pipeline** – Evaluating models with `mlflow`, `DVC`, `Great Expectations`  
+- **CI/CD Mastery** – Containerizing apps with Docker and automating builds via GitHub Actions
 
 ---
 
-## ⚡ Fun Fact
-I’m a **data-driven problem solver** who loves transforming messy datasets into dashboard-ready insights!
+## 📫 Let’s Connect
+
+| Platform     | Link |
+|--------------|------|
+| LinkedIn     | [linkedin.com/in/palak-ray](https://linkedin.com/in/palak-ray) |
+| Portfolio 🖥️ | [palakray.dev](https://palakray.dev) *(if available)* |
+| Email        | palakray07@example.com |
+
+---
 
 <details>
-  <summary>📈 Stats</summary>
-
-  - 🧪 Repositories: 1
-  - 📅 First commit: *(add year)*
+  <summary>⚡ Fun Facts & Quick Stats</summary>
+  
+- 💼 Repositories: 5  
+- ⌛ GitHub since: 2023  
+- 🎯 Hitting updates approximately every month
 </details>
+
+---
+
+**💡 Tips to elevate this profile:**
+1. Use **Canva** or **REHeader** to customize the banner  
+2. Replace stats themes (dark/light) to match your style  
+3. Include animated GIFs of your dashboards or graphs  
+4. Add a WakaTime or GitHub Actions section for dynamic content  
+5. Showcase **top contributions** or pinned projects with links
+
+---
+
+This template delivers a **premium, polished** look—balanced between professionalism and personality, just like the profile you admired.  
+
+Want help inserting animations, customizing the banner, or generating workflow scripts to auto-update stats? Happy to assist! 😊
