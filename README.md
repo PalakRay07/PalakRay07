@@ -70,15 +70,3 @@
 
 ---
 
-**💡 Tips to elevate this profile:**
-1. Use **Canva** or **REHeader** to customize the banner  
-2. Replace stats themes (dark/light) to match your style  
-3. Include animated GIFs of your dashboards or graphs  
-4. Add a WakaTime or GitHub Actions section for dynamic content  
-5. Showcase **top contributions** or pinned projects with links
-
----
-
-This template delivers a **premium, polished** look—balanced between professionalism and personality, just like the profile you admired.  
-
-Want help inserting animations, customizing the banner, or generating workflow scripts to auto-update stats? Happy to assist! 😊
