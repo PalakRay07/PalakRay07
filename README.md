@@ -5,7 +5,7 @@
 
 <p align="center">
   <a href="https://github.com/PalakRay07"><img src="https://img.shields.io/badge/GitHub-100000?logo=github&style=for-the-badge" alt="GitHub"/></a>
-  <a href="[https://www.linkedin.com/in/palak-ray](https://www.linkedin.com/in/palak-ray-1b3a37324/)"><img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&style=for-the-badge" alt="LinkedIn"/></a>
+  <a href="https://www.linkedin.com/in/palak-ray-1b3a37324/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&style=for-the-badge" alt="LinkedIn"/></a>
   <img src="https://visitor-badge.glitch.me/badge?page_id=PalakRay07.PalakRay07" alt="Profile views"/>
 </p>
 
@@ -13,25 +13,8 @@
 
 ## 👨‍💻 About Me
 - Data analytics & automation enthusiast transforming raw data into impactful insights.
-- Current focus: turning **Uber Trips Analysis** into a fully automated, real-time pipeline using **Streamlit**, **AWS Lambda/S3**, **Docker**, and **GitHub Actions**.
+- Current focus: A secure, decentralized online payment platform **Blockchain Bsed Payment System** where users can send and receive payments using blockchain, Frontend using **HTML**, **CSS**, **Docker**, **JavaScript** and **React.js** Backend using **Python (Flask / Django)** and Blockchain using **Ethereum** .
 - Passionate about open source, clean code, and collaborating on meaningful data projects.
-
----
-
-## 🔭 Featured Projects
-
-### 📈 Uber Trips Analysis  
-A deep dive into NYC Uber data — built with Python, Pandas, Seaborn & Matplotlib.  
-➡️ *Live version coming soon with streamed insights & dashboards.*
-
-### 🧩 planka  
-An interactive, real-time Kanban board built using React and Redux—MIT-licensed, with **960⭐** for collaborative features.
-
-### 🎮 wings  
-A fast, secure server control plane for Pterodactyl Panel, written in Go—with **366⭐**, focused on reliability and scalability.
-
-### 🤖 Vortex  
-A robust Java-based Discord moderation bot with **322⭐**, featuring automated rule enforcement and configurable moderation tools.
 
 ---
 
@@ -58,7 +41,7 @@ A robust Java-based Discord moderation bot with **322⭐**, featuring automated 
 ---
 
 ## 🚀 What I’m Currently Working On
-- 🛠️ Streaming Uber Trips dashboard with **Streamlit** + AWS + Docker.
+- 🛠️ Blockchain Based Payment System.
 - 📡 Real-time **ML monitoring** using MLflow and Great Expectations.
 - 🔄 CI/CD setup using **GitHub Actions** for automated builds & deployments.
 - ☁️ Backend & infra improvements in **wings** for more secure server orchestration.
@@ -69,8 +52,8 @@ A robust Java-based Discord moderation bot with **322⭐**, featuring automated 
 
 | Platform | Link |
 |:--------:|------|
-| LinkedIn | [linkedin.com/in/palak-ray](https://www.linkedin.com/in/palak-ray) |
-| Email    | palakray07@example.com |
+| LinkedIn | [linkedin.com/in/palak-ray](https://www.linkedin.com/in/palak-ray-1b3a37324/) |
+| Email    | palak070704@gmail.com |
 | Portfolio| [palakray.dev](https://palakray.dev) *(if available)* |
 
 ---
@@ -79,7 +62,7 @@ A robust Java-based Discord moderation bot with **322⭐**, featuring automated 
   <summary>⚡ Quick Stats & Fun Facts</summary>
 
 - 💼 Repositories: 14  
-- 🏷️ Subjects: Go, Java, JavaScript, Python, AWS, Docker  
-- ⌨️ On GitHub since 2021  
+- 🏷️ Subjects: CPP, Java, JavaScript, Python 
+- ⌨️ On GitHub since 2023  
 - ⏱️ Regular project updates — actively refining feature pipelines & automation  
 </details>
