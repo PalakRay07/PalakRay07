@@ -5,7 +5,7 @@
 
 <p align="center">
   <a href="https://github.com/PalakRay07"><img src="https://img.shields.io/badge/GitHub-100000?logo=github&style=for-the-badge" alt="GitHub"/></a>
-  <a href="https://www.linkedin.com/in/palak-ray"><img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&style=for-the-badge" alt="LinkedIn"/></a>
+  <a href="[https://www.linkedin.com/in/palak-ray](https://www.linkedin.com/in/palak-ray-1b3a37324/)"><img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&style=for-the-badge" alt="LinkedIn"/></a>
   <img src="https://visitor-badge.glitch.me/badge?page_id=PalakRay07.PalakRay07" alt="Profile views"/>
 </p>
 
