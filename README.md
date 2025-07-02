@@ -5,7 +5,7 @@
 
 <p align="center">
   <a href="https://github.com/PalakRay07"><img src="https://img.shields.io/badge/GitHub-100000?logo=github&style=for-the-badge" alt="GitHub"/></a>
-  <a href="https://www.linkedin.com/in/palak-ray-1b3a37324/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&style=for-the-badge" alt="LinkedIn"/></a>
+  <a href="https://www.linkedin.com/in/palak-1b3a37324/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&style=for-the-badge" alt="LinkedIn"/></a>
 
 </p>
 
@@ -65,7 +65,7 @@ Data analytics & automation enthusiast transforming raw data into impactful insi
 
 | Platform  | Link                                                                          |
 | --------- | ----------------------------------------------------------------------------- |
-| LinkedIn  | [linkedin.com/in/palak-ray](https://www.linkedin.com/in/palak-ray-1b3a37324/) |
+| LinkedIn  | [linkedin.com/in/palak-ray](https://www.linkedin.com/in/palak-1b3a37324/) |
 | Email     | [palak070704@gmail.com](mailto:palak070704@gmail.com)                         |
 | Portfolio | [palakray.dev](https://palakray.dev)                          |
 
