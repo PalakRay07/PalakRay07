@@ -1,6 +1,6 @@
 <!-- Hero Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=140&section=header&text=Hello%2C%20I%27m%20Palak%20Ray%20👋" width="100%" alt="Banner"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=140&section=header&text=Hello%2C%20I%27m%20Palak%20👋" width="100%" alt="Banner"/>
 </p>
 
 <p align="center">
