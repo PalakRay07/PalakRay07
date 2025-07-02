@@ -74,7 +74,7 @@ Data analytics & automation enthusiast transforming raw data into impactful insi
 ## ⚡ Quick Stats & Fun Facts
 
 - 💼 Repositories: 14+
-- 🏷️ Subjects: C++, Java, JavaScript, Python
+- 🏷️ Subjects: C++, Java, JavaScript, Python, HTML, CSS, SQL, AI ML
 - ⌨️ On GitHub since 2023
 - ⏱️ Regular project updates — actively refining feature pipelines & automation
 
