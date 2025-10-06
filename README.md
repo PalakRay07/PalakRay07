@@ -67,7 +67,7 @@ Data analytics & automation enthusiast transforming raw data into impactful insi
 | --------- | ----------------------------------------------------------------------------- |
 | LinkedIn  | [linkedin.com/in/palak-ray](https://www.linkedin.com/in/palak-1b3a37324/) |
 | Email     | [palak070704@gmail.com](mailto:palak070704@gmail.com)                         |
-| Portfolio | [Portfolio]((https://palaks-portfolio.onrender.com/))                          |
+| Portfolio | [Portfolio](https://palaks-portfolio.onrender.com/)                          |
 
 ---
 
