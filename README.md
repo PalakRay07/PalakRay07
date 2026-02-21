@@ -64,9 +64,6 @@ Currently building LLM-based systems and experimenting with **prompt engineering
   <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=PalakRay07&theme=tokyonight&hide_border=true" />
 </p>
 
-<p align="center">
-  <img height="170" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=PalakRay07&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
-</p>
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PalakRay07&theme=tokyonight" />
