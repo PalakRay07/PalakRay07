@@ -60,10 +60,7 @@ Currently building LLM-based systems and experimenting with **prompt engineering
 
 ## 📊 GitHub Analytics
 
-<p align="center">
-  <img height="170" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=PalakRay07&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true" />
-  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=PalakRay07&theme=tokyonight&hide_border=true" />
-</p>
+
 
 <p align="center">
   <img height="170" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=PalakRay07&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
@@ -74,7 +71,7 @@ Currently building LLM-based systems and experimenting with **prompt engineering
 </p>
 ---
 
-## 🐍 Contribution Snake
+## 🐍 Contribution 
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/PalakRay07/PalakRay07/output/github-contribution-grid-snake-dark.svg" />
