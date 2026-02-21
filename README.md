@@ -4,13 +4,9 @@
 </p>
 
 <!-- Name Header -->
-<h1 align="center">Hi 👋, I'm Palak</h1>
 <h3 align="center">AI/ML Intern | LLM Developer</h3>
 
 <p align="center">
-  <a href="https://github.com/PalakRay07">
-    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
   <a href="https://www.linkedin.com/in/palak-1b3a37324/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
