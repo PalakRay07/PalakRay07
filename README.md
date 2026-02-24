@@ -135,7 +135,7 @@ Computer Vision project using OpenCV.
 
 ---
 
-## 🐍 Contribution Snake
+## 🐍 Contribution
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/PalakRay07/PalakRay07/output/snake.svg" />
