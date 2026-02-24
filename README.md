@@ -125,12 +125,12 @@ Computer Vision project using OpenCV.
 ## 📈 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=PalakRay07&show_icons=true&theme=tokyonight" height="170"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=PalakRay07&theme=tokyonight" height="170"/>
+  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=PalakRay07&theme=tokyonight&hide_border=true" />
 </p>
 
+
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PalakRay07&layout=compact&theme=tokyonight"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PalakRay07&theme=tokyonight" />
 </p>
 
 ---
