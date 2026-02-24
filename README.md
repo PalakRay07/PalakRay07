@@ -1,7 +1,7 @@
 <!-- ======================= BANNER ======================= -->
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/PalakRay07/PalakRay07/main/Ivory%20Minimalist%20Professional%20LinkedIn%20Cover%20Image.png" width="100%" />
+  <img src="Cover Image.png" width="100%" />
 </p>
 
 <!-- Typing Intro -->
