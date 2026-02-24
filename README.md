@@ -135,10 +135,10 @@ Computer Vision project using OpenCV.
 
 ---
 
-## 🐍 Contribution
+## 🐍 Contribution 
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/PalakRay07/PalakRay07/output/snake.svg" />
+  <img src="https://raw.githubusercontent.com/PalakRay07/PalakRay07/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
 ---
