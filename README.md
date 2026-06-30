@@ -41,19 +41,19 @@ AI/ML Intern working on *Large Language Model (LLM) applications*.
 Interested in the full lifecycle of machine learning:  
 *data → training → evaluation → deployment → real-world usage*
 
-Currently building LLM-based systems and experimenting with *prompt engineering and model optimization*.
+Transforming pixels into intelligent decisions | *Edge AI • Computer Vision*.
 
-`Data Collection → Model Training → Evaluation → Deployment → Real World Usage`
+`Capture → Analyze → Infer → Deploy`
 
-Currently focusing on:
-- Prompt Engineering
-- Model Optimization 
-- Exploring AI deployment workflows
+Currently focused on:
+• Edge AI
+• Real-Time Computer Vision
+• AI Performance Optimization
 
 ---
 
 ## 🎯 Career Objective
-I aim to work as a **Prompt Engineer** where I can design and integrate AI into applications, and solve real user problems — not just academic problems.
+I aim to engineer intelligent *Computer Vision* systems that deliver *accurate*, *efficient*, and *real-time* solutions.
 
 ---
 
@@ -63,6 +63,7 @@ I aim to work as a **Prompt Engineer** where I can design and integrate AI into 
 ![C++](https://img.shields.io/badge/C++-blue?style=for-the-badge&logo=cplusplus)
 ![Python](https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python)
 ![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript)
+![Java](https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=openjdk)
 
 ### Web Development
 ![HTML](https://img.shields.io/badge/HTML-orange?style=for-the-badge&logo=html5)
@@ -71,15 +72,23 @@ I aim to work as a **Prompt Engineer** where I can design and integrate AI into 
 ![Tailwind](https://img.shields.io/badge/Tailwind-0ea5e9?style=for-the-badge&logo=tailwindcss)
 
 ### Databases & Tools
-![MySQL](https://img.shields.io/badge/MySQL-blue?style=for-the-badge&logo=mysql)
-![Git](https://img.shields.io/badge/Git-orange?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)
-![VS Code](https://img.shields.io/badge/VSCode-blue?style=for-the-badge&logo=visualstudiocode)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)
+![Hugging%20Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 
-### AI / ML Libraries
-![NumPy](https://img.shields.io/badge/NumPy-blue?style=for-the-badge&logo=numpy)
-![OpenCV](https://img.shields.io/badge/OpenCV-green?style=for-the-badge&logo=opencv)
-![Scikit-Learn](https://img.shields.io/badge/ScikitLearn-orange?style=for-the-badge&logo=scikitlearn)
+### AI / ML Libraries & Frameworks
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![MediaPipe](https://img.shields.io/badge/MediaPipe-0097A7?style=for-the-badge)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![OpenVINO](https://img.shields.io/badge/OpenVINO-0071C5?style=for-the-badge&logo=intel&logoColor=white)
+![ONNX Runtime](https://img.shields.io/badge/ONNX_Runtime-005CED?style=for-the-badge&logo=onnx&logoColor=white)
 
 ---
 
@@ -114,7 +123,7 @@ Computer Vision project using OpenCV.
 
 ## 📊 Impact Metrics (Placement Important)
 
-- Solved **150+ DSA problems**
+- Solved **200+ DSA problems**
 - Developed **full-stack applications with authentication and database**
 - Implemented **real-time computer vision model**
 - Built deployable UI projects using **React + Tailwind**
@@ -144,21 +153,21 @@ Computer Vision project using OpenCV.
 ---
 
 ## 💡 Currently Learning
-- Backend development
+- Real-time AI optimization
 - LLM applications
-- Prompt engineering
+- AI deployment on edge devices
 
 ---
 
 ## ⚡ Fun Fact
-I enjoy building things that actually work in real life — not just projects that stay inside a college submission folder.
+My search history is 50% documentation and 50% "Why is this not working?"
 
 ---
 
-⭐ *If you like my work, consider giving a star to my repositories!*
+⭐ *My repositories don't bite*. *They just appreciate stars*.
 
 ---
 
 <p align="center">
-  --Always building • Always learning • Always improving--
+ --Eat • Code • Debug • Repeat--
 </p>
